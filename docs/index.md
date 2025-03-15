@@ -8,7 +8,7 @@ The Tall Poppy Group is a start-up skunkworks with a focus on cybersecurity, AI,
 High-quality, easy to sell, cloud delivered security services offerings. Secure more clients.
 
 ### [Bugcrowd](https://bugcrowd.com)
-The pioneer and leader in crowdsourced cybersecurity
+The pioneer and leader in crowdsourced cybersecurity.
 
 ### [disclose.io](https://disclose.io)
 Free open-source tools to standardize, normalize, promote, and protect good-faith security research.
