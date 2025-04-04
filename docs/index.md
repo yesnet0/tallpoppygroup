@@ -1,4 +1,7 @@
-# Tall Poppy Group 
+<p align="center">
+  <img src="tallpoppygroup.jpg">
+</p>
+
 The Tall Poppy Group is a start-up skunkworks with a focus on cybersecurity, AI, security research, and emerging threats.
 
 ## Portfolio
